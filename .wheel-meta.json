@@ -1,0 +1,22 @@
+{
+  "wheel_id": 920,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-110",
+  "project": "retaining-walls-perth-maintenance-1387a0025684c3db1a931d4b21f73",
+  "parent_t1_ref": "retainingwallsperthwa-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth maintenance",
+  "intended_url": "http://retaining-walls-perth-maintenance-1387a0025684c3db1a931d4b21f73.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "eaffb5417285fe5a",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-perth-council-and-approvals-b2848d885799c2a512b/",
+      "anchor": "retaining walls perth council and approvals",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
